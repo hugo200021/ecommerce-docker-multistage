@@ -1,0 +1,7 @@
+**/.git
+**/node_modules
+**/vendor
+**/.next
+**/.env
+**/.env.local
+**/storage/logs/*

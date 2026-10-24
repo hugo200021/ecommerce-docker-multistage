@@ -1,0 +1,20 @@
+# Variables privadas
+.env
+.env.*
+!.env.example
+
+**/.env
+**/.env.*
+!**/.env.example
+
+# Repositorios anidados
+**/.git/
+
+# Dependencias y compilaciones
+**/node_modules/
+**/vendor/
+**/.next/
+
+# Archivos temporales y logs
+**/storage/logs/*
+*.log
